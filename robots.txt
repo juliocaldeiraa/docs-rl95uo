@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pmn4nl.trans88.online/sitemap.xml
